@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jarvo18
+cherrie- 👋 Hi, I’m @jarvo18
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -11,3 +11,5 @@ jarvo18/jarvo18 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 hello
+Hi 
+cherrie 
